@@ -1,4 +1,4 @@
-i=0
+i = 0
 
 while True:
 
@@ -7,7 +7,3 @@ while True:
     if x == 0:
         break
     print(f"Case {i}: {x}")
-
-
-
-
